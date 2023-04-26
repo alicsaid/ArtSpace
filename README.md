@@ -1,2 +1,2 @@
 # ArtSpace
-Art Space gallery is android application created using Jetpack Compose.
+Art Space gallery is android app created using Jetpack Compose.
